@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyas850
-- 👀 I’m interested in Software, Web & App Development
+- 👀 I’m interested in Web & App Development
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Programming Language
 - 📫 How to reach me Instagram:m.s.shreyas & pvtshreyuu_._
