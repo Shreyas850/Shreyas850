@@ -1,53 +1,56 @@
-<!-- 🌟 SUPER-AESTHETIC GITHUB PROFILE README FOR SHREYAS850 🌟 -->
-
 <h1 align="center">✨ Hey, I'm Shreyas! ✨</h1>
-<p align="center">19 y/o Developer • Future CyberSec Expert • Constant Learner</p>
+<p align="center">19 y/o Developer • AI & ML Enthusiast • Mobile App Architect</p>
 
 ---
 
-## 🧑‍💻 About Me  
-I'm a passionate young developer who loves building real-world apps, experimenting with different technologies, and exploring the deeper side of computing like OS, security, and networking.
+## 🧑‍💻 About Me
+I'm a passionate developer focused on bridging the gap between **Artificial Intelligence** and **Mobile Applications**.
+
+I love building intelligent apps, experimenting with LLMs (like **Gemma** & **Phi-3**) and exploring **Computer Vision**. My goal is to create systems that aren't just functional, but smart—whether that's a custom AI assistant or a next-gen Android app.
 
 ---
 
 ## 🎓 Skills (Completed)
-- 🟦 **C & C++ (Basic + Advanced)**
-- ☕ **Java**
-- 🐍 **Python**
-- 🌐 **Web Development (HTML, CSS, JS)**
-- 📱 **Kotlin**
+- 🧠 **AI & ML (Python, OpenCV)**
+- 📱 **Android Development (Kotlin, Java)**
+- 🐍 **Python (Advanced)**
+- 🟦 **C & C++**
+- 🌐 **Web Technologies**
 - 🧰 **Git & GitHub**
 
 ---
 
 ## 📘 Currently Learning
-- 🔐 Cyber Security  
-- 🖥 Operating Systems  
-- 🐧 Linux  
-- 🌐 Networking  
+- 🤖 **Generative AI & LLMs** (Fine-tuning & Implementation)
+- 👁️ **Computer Vision** (Object Detection, MediaPipe)
+- 📱 **Advanced Android** (Jetpack Compose, Custom ROMs)
+- 🐧 **Linux Environment**
 
 ---
 
 ## 🚀 Featured Projects
 
 <details open>
-<summary><strong>🌐 QWeb Browser</strong></summary>
+<summary><strong>🧠 Neel Madhav AI</strong></summary>
+<br>
+An advanced AI project I am developing to explore the capabilities of modern machine learning.
 
-A lightweight, modern browser I'm building for learning + innovation.
-
-🔗 **GitHub:** https://github.com/Shreyas850/QWebBrowser  
-🔗 **Live Website:** https://qweb-vision-portal.lovable.app  
-
+🔗 **GitHub:** [Shreyas850/Neel-Madhav-AI](https://github.com/Shreyas850/Neel-Madhav-AI)
 </details>
 
-<details open>
-<summary><strong>🎵 Music-You</strong></summary>
+<details>
+<summary><strong>🤖 Jarvis PRO V2 (Concept/In Progress)</strong></summary>
+<br>
+My personal AI assistant project designed to integrate advanced voice and vision capabilities.
+</details>
 
+<details>
+<summary><strong>🎵 Music-You</strong></summary>
+<br>
 A clean, ad-free music streaming platform inspired by Spotify.
 
-🔗 **GitHub:** https://github.com/Shreyas850/Music-You  
-🔗 **Live Website:** https://rhythm-craft-web.lovable.app  
-
+🔗 **GitHub:** [Shreyas850/Music-You](https://github.com/Shreyas850/Music-You)  
+🔗 **Live Website:** [rhythm-craft-web.lovable.app](https://rhythm-craft-web.lovable.app)
 </details>
 
 ---
@@ -55,7 +58,9 @@ A clean, ad-free music streaming platform inspired by Spotify.
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,kotlin,git,linux,vscode,androidstudio" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,androidstudio,tensorflow,pytorch,opencv,c,cpp,git,linux,vscode" />
+</a>
 </p>
 
 ---
@@ -63,15 +68,13 @@ A clean, ad-free music streaming platform inspired by Spotify.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shreyas850&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas850&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Shreyas850&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
+---
+
+## 🤝 Connect
+If you like my work on **AI** or **Apps**, feel free to ⭐ my projects or drop ideas!
 
 ---
 
-## 🤝 Connect  
-If you like my work, feel free to ⭐ my projects or drop ideas for improvement!
-
----
-
-<p align="center">✨ Always learning. Always building. Always curious. ✨</p>
+<p align="center">✨ Building the future, one model at a time. ✨</p>
