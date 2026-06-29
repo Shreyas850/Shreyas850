@@ -49,8 +49,8 @@ My personal AI assistant project designed to integrate advanced voice and vision
 <br>
 A clean, ad-free music streaming platform inspired by Spotify.
 
-🔗 **GitHub:** [Shreyas850/Music-You](https://github.com/Shreyas850/Pixel-You)  
-🔗 **Live Website:** [rhythm-craft-web.lovable.app](https://pixel-you-app.lovable.app)
+🔗 **GitHub:** [Shreyas850/Pixel-YOU](https://github.com/Shreyas850/Pixel-You)  
+🔗 **Live Website:** [https://pixel-you-app.lovable.app](https://pixel-you-app.lovable.app)
 </details>
 
 ---
