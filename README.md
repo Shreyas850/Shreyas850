@@ -49,7 +49,7 @@ My personal AI assistant project designed to integrate advanced voice and vision
 <br>
 A clean, ad-free music streaming platform inspired by Spotify.
 
-🔗 **GitHub:** [Shreyas850/Music-YOU](https://github.com/Shreyas850/Music-You)  
+🔗 **GitHub:** [Shreyas850/Music-You](https://github.com/Shreyas850/Music-You)  
 🔗 **Live Website:** [https://rhythm-craft-web.lovable.app](https://rhythm-craft-web.lovable.app)
 </details>
 
