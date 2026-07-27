@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey, I'm Shreyas! ✨</h1>
-<p align="center">19 y/o Developer • AI & ML Enthusiast • Mobile App Architect</p>
+<p align="center">18 y/o Developer • AI & ML Enthusiast • Mobile App Architect</p>
 
 ---
 
