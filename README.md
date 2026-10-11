@@ -68,7 +68,7 @@ A clean, ad-free music streaming platform inspired by Spotify.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Shreyas850&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas850&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
 ---
 
