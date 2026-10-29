@@ -1,98 +1,176 @@
-## Learning log
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=shreyas850&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140687608%3Fu%3D8c71f1dffb95afc8d313976b1f9655dd8edeb2f5%26v%3D4" alt="shreyas850 hero visual" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Shreyas850&theme=aurora&variant=living-identity&label=Shreyas&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=Shreyas850&theme=aurora&variant=living-identity&label=Shreyas&v=wow-living-identity-1&mode=dark" width="100%" alt="Shreyas animated Living Identity portrait and ASCII name" />
+</picture>
+
+<p><strong>AI & ML Developer · Android App Developer</strong></p>
+<p>Building intelligent applications, exploring local AI, and turning ambitious ideas into reality.</p>
+
+<p>
+  <a href="https://github.com/Shreyas850">GitHub</a> ·
+  <a href="https://github.com/Shreyas850?tab=repositories">Projects</a> ·
+  <a href="https://music-you.lovable.app/">Music-You Live</a>
 </p>
 
-**m.s.shreyas** · Frontend or full-stack engineer
+</div>
 
-## Currently learning
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-> ● developer . 18 
-○ ai &amp; ml architect
-● building neel madhav ai
-○ rhythm &amp; logic . active
-[status] optimizing the future
+<h2>Identity, with signal</h2>
 
-**Learning next**
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="62%" valign="top">
 
-- Kotlin
-- C++
-- JavaScript
+<p>I'm Shreyas, a developer passionate about Artificial Intelligence, Machine Learning, Android applications, and modern software development.</p>
 
-📍 Based in **India** · 🌐 [Website](https://windows-11-3-0.vercel.app/) · 👥 **19** followers · **33** following
+<p><strong>Focus:</strong> <code>Python</code> · <code>Kotlin</code> · <code>Java</code> · <code>C++</code></p>
 
-## Tools I’m practicing
+<p><sub>Exploring LLMs, computer vision, intelligent assistants, and practical software engineering.</sub></p>
 
-- **Kotlin** · 53%
-- **C++** · 18%
-- **JavaScript** · 11%
-- **GDScript** · 8%
-- **Python** · 3%
-- **CSS** · 3%
-- **Makefile** · 2%
-- **Swift** · 1%
+</td>
+<td width="38%" valign="top">
 
-## Projects in progress
+<p><code>LIVE SIGNAL</code></p>
 
-<details>
-<summary><b>windows-11-3.0-main</b> · JavaScript</summary>
-
-Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Shreyas850/windows-11-3.0-main)
-</details>
-
-<details>
-<summary><b>Neel-Madhav-AI</b> · Python</summary>
-
-Neel Madhav AI 🦚: A privacy-first voice assistant running 100% locally on your GPU. Blends spiritual wisdom (Gita/Mantras) with desktop automation using Phi-3, Llama.cpp, and ElevenLabs for hyper-realistic responses.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Shreyas850/Neel-Madhav-AI)
-</details>
-
-<details>
-<summary><b>Music-You</b> · Kotlin</summary>
-
-An Android application for streaming music from YouTube Music.<br/>
-⭐ 4 · 🍴 0
-
-[View repository](https://github.com/Shreyas850/Music-You)
-</details>
-
-<details>
-<summary><b>LeetCode</b> · C++</summary>
-
-&quot;My personal journey through LeetCode: tackling data structures and algorithms one problem at a time.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Shreyas850/LeetCode)
-</details>
-
-## Progress so far
-
-- **Current streak:** 0 days
-- **Longest streak:** 8 days
-- **Active days:** 47 days
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=shreyas850&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140687608%3Fu%3D8c71f1dffb95afc8d313976b1f9655dd8edeb2f5%26v%3D4" alt="shreyas850 stats visual" />
+<p>
+<strong>AI</strong> — Exploring<br />
+<strong>Android</strong> — Building<br />
+<strong>LLMs</strong> — Learning<br />
+<strong>Open Source</strong> — Contributing
 </p>
 
-## Learning streak
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>What moves the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=Shreyas850&theme=aurora&items=Python%3A%3AAI%20%26%20ML%20development%7CKotlin%3A%3AAndroid%20applications%7CLLMs%3A%3ALocal%20AI%20experiments&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=Shreyas850&theme=aurora&items=Python%3A%3AAI%20%26%20ML%20development%7CKotlin%3A%3AAndroid%20applications%7CLLMs%3A%3ALocal%20AI%20experiments&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Shreyas developer highlights" />
+</picture>
+
+<p align="center"><sub>Learning deeply, building consistently, and turning ideas into working software.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The tools behind the signal</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Shreyas850&theme=aurora&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=Shreyas850&theme=aurora&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Shreyas animated technology stack" />
+</picture>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=shreyas850&theme=zen" alt="shreyas850 contribution activity" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,androidstudio,tensorflow,pytorch,opencv,c,cpp,git,linux,vscode&perline=6" alt="Python, Kotlin, Java, Android Studio, TensorFlow, PyTorch, OpenCV, C, C++, Git, Linux, and VS Code" />
 </p>
 
-## Say hello
+<p align="center"><sub>Python · Kotlin · Java · Android · TensorFlow · PyTorch · OpenCV · C · C++ · Git · Linux</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Shreyas850&theme=aurora&repos=Shreyas850%2FNeel-Madhav-AI%2CShreyas850%2FMusic-You&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=Shreyas850&theme=aurora&repos=Shreyas850%2FNeel-Madhav-AI%2CShreyas850%2FMusic-You&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Shreyas animated project constellation" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 <a href="https://github.com/Shreyas850/Neel-Madhav-AI">Neel Madhav AI</a></h3>
+
+<p>An AI project exploring intelligent assistance and modern language models.</p>
+
+<p><sub>Python · AI · LLMs</sub></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎵 <a href="https://github.com/Shreyas850/Music-You">Music-You</a></h3>
+
+<p>A modern music streaming platform with a clean, user-friendly experience.</p>
+
+<p><sub><a href="https://music-you.lovable.app/">Visit Live Website ↗</a></sub></p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>🌌 AeroStack — In Progress</h3>
+
+<p>A Software that help's developer's & student's</p>
+
+<p><sub>Voice AI · Computer Vision · Automation</sub></p>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Shreyas850&theme=aurora&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=Shreyas850&theme=aurora&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Shreyas GitHub statistics" />
+</picture>
+
+<h3 align="center">💻 Top Languages</h3>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=shreyas850&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140687608%3Fu%3D8c71f1dffb95afc8d313976b1f9655dd8edeb2f5%26v%3D4" alt="shreyas850 social visual" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shreyas850&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Shreyas's Top Languages"
+  />
 </p>
 
-<a href="https://github.com/shreyas850">GitHub</a> · <a href="https://windows-11-3-0.vercel.app/">Website</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas850&theme=tokyonight&hide_border=true" alt="Shreyas contribution streak" width="100%" />
+</p>
 
-<p align="center"><sub>m.s.shreyas · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Shreyas850&theme=aurora&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Shreyas850&theme=aurora&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Shreyas GitHub contribution activity" />
+</picture>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2dd4bf/Shreyas850" alt="Shreyas contribution graph" width="100%" />
+</p>
+
+<p align="center"><sub>Every project is another opportunity to learn, improve, and build something useful.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<div align="center">
+
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+
+<h2>Make something worth noticing</h2>
+
+<p>I enjoy exploring ambitious ideas in AI, Android, and software engineering.</p>
+
+<p>
+  <a href="https://github.com/Shreyas850">GitHub</a> ·
+  <a href="https://github.com/Shreyas850?tab=repositories">Explore Projects</a> ·
+  <a href="https://music-you.lovable.app/">Music-You</a>
+</p>
+
+<p><sub>Shreyas · AI · Android · Innovation</sub></p>
+
+<p><strong>✨ Building the future, one model at a time. ✨</strong></p>
+
+</div>
+```
