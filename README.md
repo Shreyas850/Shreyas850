@@ -9,8 +9,7 @@
 
 <p>
   <a href="https://github.com/Shreyas850">GitHub</a> ·
-  <a href="https://github.com/Shreyas850?tab=repositories">Projects</a> ·
-  <a href="https://music-you.lovable.app/">Music-You Live</a>
+  <a href="https://github.com/Shreyas850?tab=repositories">Projects</a> .
 </p>
 
 </div>
