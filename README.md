@@ -1,5 +1,4 @@
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Shreyas850&theme=aurora&variant=living-identity&label=Shreyas&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=Shreyas850&theme=aurora&variant=living-identity&label=Shreyas&v=wow-living-identity-1&mode=dark" width="100%" alt="Shreyas animated Living Identity portrait and ASCII name" />
@@ -107,7 +106,7 @@
 
 <h3>🌌 AeroStack — In Progress</h3>
 
-<p>A Software that help's developer's & student's</p>
+<p>A personal AI assistant concept focused on voice interaction, computer vision, and desktop automation.</p>
 
 <p><sub>Voice AI · Computer Vision · Automation</sub></p>
 
@@ -145,10 +144,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Shreyas850&theme=aurora&variant=wow&v=wow-heatmap-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/heatmap?username=Shreyas850&theme=aurora&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Shreyas GitHub contribution activity" />
 </picture>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2dd4bf/Shreyas850" alt="Shreyas contribution graph" width="100%" />
-</p>
 
 <p align="center"><sub>Every project is another opportunity to learn, improve, and build something useful.</sub></p>
 
