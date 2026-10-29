@@ -104,11 +104,11 @@
 <tr>
 <td colspan="2" valign="top">
 
-<h3>🌌 AeroStack — In Progress</h3>
+<h3>AeroStack — In Progress</h3>
 
-<p>A personal AI assistant concept focused on voice interaction, computer vision, and desktop automation.</p>
+<p>A software built for developer's & student's</p>
 
-<p><sub>Voice AI · Computer Vision · Automation</sub></p>
+<p><sub>Lighweight · LocalPort Support · In built Task viewer</sub></p>
 
 </td>
 </tr>
